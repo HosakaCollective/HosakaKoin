@@ -1,0 +1,9 @@
+Building HosakaKoin
+
+See doc/readme-qt.rst for instructions on building hosakakoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HosakaKoin.
+
+See doc/build-*.txt for instructions on building hosakakoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of HosakaKoin.
